@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(75, 245, 231);
+}
+.carousel-item  img{
+    width: 100% !important;
+    height: 100vh !important; 
+    margin: auto;
+    border: 5px solid white;
+}
+.myCard{
+    display: flex;
+    justify-content: space-evenly;
+}
